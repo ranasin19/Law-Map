@@ -11,7 +11,7 @@ import SwiftUI
 struct lawappApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            UserMapView()
         }
     }
 }
