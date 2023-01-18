@@ -1,4 +1,4 @@
-# Law-Map
+# Law Map
 
 
 <h1 align="center">
